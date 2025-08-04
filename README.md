@@ -22,7 +22,7 @@ A full-stack **Intern Donation & Referral Leaderboard Portal** built using node.
 
 | Login Page | Dashboard | Leaderboard |
 |------------|-----------|-------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Leaderboard](https://github.com/Sahana-k30/intern_portal/blob/main/leaderboard_shecan.PNG)) |
+| ![Login](screenshots/login.png) | ![Dashboard]((https://github.com/Sahana-k30/intern_portal/blob/main/login_she_can.PNG)) | ![Leaderboard](https://github.com/Sahana-k30/intern_portal/blob/main/leaderboard_shecan.PNG)) |
 
 ---
 
