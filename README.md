@@ -1,7 +1,7 @@
 intern_portal
-🧑‍💼 Intern Portal
+🧑‍💼 InternBoard
 
-A full-stack **Intern Donation & Referral Leaderboard Portal** built using node.js, express.js, mongoDB and EJS templating using HTML, CSS and JavaScript. Interns can log in using their name, view total donations raised, referral codes, and track unlockable rewards. A leaderboard ranks all interns by their contribution.
+A full-stack Intern Donation & Referral Dashboard and Leaderboard Portal built using node.js, express.js, mongoDB and EJS templating using HTML, CSS and JavaScript. Interns can log in using their name, view total donations raised, referral codes, and track unlockable rewards. A leaderboard ranks all interns by their contribution.
 
 ---
 
@@ -18,7 +18,7 @@ A full-stack **Intern Donation & Referral Leaderboard Portal** built using node.
 
 🖼️ Screenshots
 
-> Add your screenshots below inside a `screenshots/` folder in your repo and use these markdown tags:
+> These images are added the repo and are the screenshots of the pages:
 
 | Login Page | Dashboard | Leaderboard |
 |------------|-----------|-------------|
@@ -54,14 +54,11 @@ Make sure you have the following installed:
 1. Clone the repository
 git clone https://github.com/Sahana-k30/intern_portal.git
 
-2. Move into the project directory
-cd intern_portal
-
-3. Install backend dependencies
+2. Install backend dependencies
 npm install
 
-5. Connect and add data to the MongoDB database
+3. Connect and add data to the MongoDB database
 node initDB.js
 
-6. Start both frontend and backend in parallel
+4. Start both frontend and backend in parallel
 nodemon index.js
